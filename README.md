@@ -72,15 +72,15 @@ Hi! I’m Sudesh Arosha Seneviratne, a self-motivated **Software Developer** spe
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudeshseneviratne2003&show_icons=true&theme=radical" width="400">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudeshseneviratne2003&theme=radical&row=1&column=7">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeshseneviratne2003&theme=github-dark&hide_border=true">
-</p>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudeshseneviratne2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshseneviratne2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
 </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=sudeshseneviratne2003&theme=radical&row=1&column=7">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeshseneviratne2003&theme=github-dark&hide_border=true">
+</p>
+
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeshseneviratne2003&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />

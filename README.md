@@ -80,15 +80,6 @@ Hi! I’m Sudesh Arosha Seneviratne, a self-motivated **Software Developer** spe
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeshseneviratne2003&theme=github-dark&hide_border=true">
 </p>
 
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeshseneviratne2003&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
-</div>
-
-
-<img src="https://raw.githubusercontent.com/SudeshSeneviratne2003/SudeshSeneviratne2003/output/snake.svg" alt="Snake animation" />
-
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Stopping%20By!%20🚀&fontSize=20&fontAlignY=45)

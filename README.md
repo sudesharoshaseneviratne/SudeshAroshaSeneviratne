@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend and Backend Developer from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudeshseneviratne2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sudeshseneviratne&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!%20🚀&fontSize=40&fontAlignY=35)
@@ -64,7 +64,7 @@ Hi! I’m Sudesh Arosha Seneviratne, a self-motivated **Software Developer** spe
 <p align="center">
   <a href="https://twitter.com/sudesharosha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://linkedin.com/in/sudesharoshaseneviratne"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/sudeshseneviratne2003"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/sudeshseneviratne"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://instagram.com/lkgeekofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
@@ -73,8 +73,8 @@ Hi! I’m Sudesh Arosha Seneviratne, a self-motivated **Software Developer** spe
 ## 📊 GitHub Stats & Activity
 <p align="center">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudeshseneviratne2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshseneviratne2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudeshseneviratne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshseneviratne&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
 </div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeshseneviratne2003&theme=github-dark&hide_border=true">
 </p>

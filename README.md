@@ -76,7 +76,6 @@ Hi! I’m Sudesh Arosha Seneviratne, a self-motivated **Software Developer** spe
   <img src="https://github-readme-stats.vercel.app/api?username=sudeshseneviratne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshseneviratne&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
 </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeshseneviratne2003&theme=github-dark&hide_border=true">
 </p>
 
 ---

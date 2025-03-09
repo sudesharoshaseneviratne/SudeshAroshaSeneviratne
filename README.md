@@ -80,10 +80,6 @@ Hi! I’m Sudesh Arosha Seneviratne, a self-motivated **Software Developer** spe
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/RuhanNandalal/RuhanNandalal/output/snake.svg" alt="Snake animation" />
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Stopping%20By!%20🚀&fontSize=20&fontAlignY=45)

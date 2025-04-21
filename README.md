@@ -73,13 +73,13 @@ Hi! I’m Sudesh Arosha Seneviratne, a self-motivated **Software Developer** spe
 ## 📊 GitHub Stats & Activity
 <p align="center">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudeshseneviratne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshseneviratne&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SudeshAroshaSeneviratne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudeshAroshaSeneviratne&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
 </div>
 </p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/SudeshSeneviratne/SudeshSeneviratne/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SudeshAroshaSeneviratne/SudeshAroshaSeneviratne/output/snake.svg" alt="Snake animation" />
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Stopping%20By!%20🚀&fontSize=20&fontAlignY=45)

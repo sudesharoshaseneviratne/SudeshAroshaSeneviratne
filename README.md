@@ -71,12 +71,19 @@ Hi! I’m Sudesh Arosha Seneviratne, a self-motivated **Software Developer** spe
 ---
 
 ## 📊 GitHub Stats & Activity
-<p align="center">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudeshAroshaSeneviratne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudeshAroshaSeneviratne&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
-</div>
-</p>
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=SudeshAroshaSeneviratne&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" />
+      <br>
+      <img src="https://streak-stats.demolab.com?user=SudeshAroshaSeneviratne&theme=tokyonight&hide_border=false" /> 
+    </td>
+      
+   <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SudeshAroshaSeneviratne&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
+   </td>
+  </tr>
+</table>
 
 ---
 

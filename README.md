@@ -1,5 +1,5 @@
 <h1 align="center">Sudesh Arosha Seneviratne</h1>
-<h3 align="center">A passionate Frontend and Backend Developer from Sri Lanka</h3>
+<h3 align="center">A passionate UI/UX Designer & Front-End Developer from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sudeshseneviratne&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

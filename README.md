@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=sudeshseneviratne&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!%20🚀&fontSize=40&fontAlignY=35)
+![Header align="center"](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!%20🚀&fontSize=40&fontAlignY=35)
 
 ---
 

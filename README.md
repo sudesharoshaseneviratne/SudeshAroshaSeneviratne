@@ -17,7 +17,7 @@
 
 ### <div align="center">Hey, I'm Sudesh. A UI/UX Designer & Front End Developer 👨‍💻 </div>  
 
-- I am a Second-Year Computer Science undergraduate at Informatics Institute of Technology (IIT), Colombo, affiliated with the University of Westminster, UK.
+- I am a Third-Year Computer Science undergraduate at Informatics Institute of Technology (IIT), Colombo, affiliated with the University of Westminster, UK.
 
 - Love to Design, Build and Deploy projects.
 
